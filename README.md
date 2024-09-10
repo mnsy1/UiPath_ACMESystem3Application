@@ -22,7 +22,7 @@ This UiPath library automates operations within the ACME System3 desktop applica
 ## Installation
 
 1. Download or clone this Library.
-   - [ACME System3 Desktop Application Automation Library]()
+   - [ACME System3 Desktop Application Automation Library](https://github.com/mnsy1/UiPath_ACMESystem3Application/blob/main/ACME.System3.Application.1.0.8.nupkg)
 3. Open UiPath Studio and load the library into your project.
 
 ## Usage
